@@ -25,13 +25,15 @@ LoanStatus|Loan approved (Y/N) |
 
 ## 3.Data preparation, cleaning and EDA
   
-   .Missing values
-   .Number of rows and columns
-   .Describe variables
-   .Fill in missing values
-   .Replacing missing values
-   .Change categorical values to numerical values
-   .Drop target column
+   <ul>
+   <li>Missing values</li>
+   <li>Number of rows and columns</li>
+   <li>Describe variables</li>
+   <li>Fill in missing values</li>
+   <li>Replacing missing values</li>
+   <li>Change categorical values to numerical values</li>
+   <li>Drop target column</li>
+   </ul>
 
 ## 5.Model selection
    .Splitting data
