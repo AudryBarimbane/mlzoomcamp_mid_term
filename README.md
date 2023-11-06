@@ -35,11 +35,12 @@ LoanStatus|Loan approved (Y/N) |
    <li>Drop target column</li>
    </ul>
 
-## 5.Model selection
+## 4.Model selection
    <ul>
    <li>Splitting data</li>
    <li>Models : logistic regression,KNN, DecisionTree</li>
      <li>Evaluation: accuracy score</li>
      </ul>
      
-## 6.Run the project
+## 5.Run the project
+
