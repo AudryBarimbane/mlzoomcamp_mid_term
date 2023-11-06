@@ -6,7 +6,7 @@ credit history ,etc.We would like to predict from all this information whether t
 
 ## Features variables and target :
 |Name|Description|
-|---|---|---|
+|---|---|
 LoanID|Unique Loan Id|
 Gender|Male/Female|
 Married|Applicant married (Y/N)|
@@ -21,7 +21,7 @@ CreditHistory|Credit history meets guidelines|
 PropertyArea|Urban/ Semi-Urban/ Rural|
 LoanStatus|Loan approved (Y/N) |
 ## Link to dataset:
-[[kaggle](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code)](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code)
+[https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code)
 
 ## 3.Data preparation and cleaning
 
