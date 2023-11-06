@@ -1,2 +1,6 @@
-# mlzoomcamp_mid_term
-Loan prediction 
+# Loan prediction project
+## Problem description
+
+## Dataset 
+kaggle[https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code]
+
