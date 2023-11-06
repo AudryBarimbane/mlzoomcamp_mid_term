@@ -43,4 +43,8 @@ LoanStatus|Loan approved (Y/N) |
      </ul>
      
 ## 5.Run the project
-
+<ul>
+  <li>Clone the folder<br>Command:https://github.com/AudryBarimbane/mlzoomcamp_mid_term.git</li>
+  <li>Open Anaconda/VSCode/Other code Editor</li>
+  <li>Open notebook :notebook.ipynb and run all cells</li>
+</ul>
