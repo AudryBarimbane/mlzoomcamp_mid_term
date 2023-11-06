@@ -23,8 +23,17 @@ LoanStatus|Loan approved (Y/N) |
 ## Link to dataset:
 [https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code)
 
-## 3.Data preparation and cleaning
+## 3.Data preparation, cleaning and EDA
+  
+   .Missing values
+   .Number of rows and columns
+   .Describe variables
+   .Fill in missing values
+   .Replacing missing values
+   .Change categorical values to numerical values
+   .Drop target column
 
-## 4.EDA (Exploratory Data Analysis)
 ## 5.Model selection
+   .Splitting data
+   .Models : logistic regression,KNN, DecisionTree
 ## 6.Run the project
