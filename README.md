@@ -39,5 +39,7 @@ LoanStatus|Loan approved (Y/N) |
    <ul>
    <li>Splitting data</li>
    <li>Models : logistic regression,KNN, DecisionTree</li>
+     <li>Evaluation: accuracy score</li>
      </ul>
+     
 ## 6.Run the project
