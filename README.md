@@ -1,7 +1,7 @@
 # Loan prediction project
 ## 1.Problem description
 A finance company wants to grant loans based on information such as: gender, married, dependents, education, applicant income,coapplicant income, loan amount term,
-credit history ,etc.We would like to predict from all this information whether the person is eligible or not.
+credit history ,etc.We would like to predict from all this information whether the person is eligible for the loan or not.
 ## 2.Dataset 
 [kaggle](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code)
 
