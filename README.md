@@ -4,8 +4,9 @@
 ## 2.Dataset 
 [kaggle](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code)
 
-|Name|Description|Type|
+|Name|Description|data Type|
 |---|---|---|
+LoanID|Unique Loan Id|Nominal|
 
 ## 3.Data preparation and cleaning
 
