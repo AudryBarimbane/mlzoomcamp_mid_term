@@ -36,6 +36,8 @@ LoanStatus|Loan approved (Y/N) |
    </ul>
 
 ## 5.Model selection
-   .Splitting data
-   .Models : logistic regression,KNN, DecisionTree
+   <ul>
+   <li>Splitting data</li>
+   <li>Models : logistic regression,KNN, DecisionTree</li>
+     </ul>
 ## 6.Run the project
