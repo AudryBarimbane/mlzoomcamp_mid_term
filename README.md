@@ -2,5 +2,5 @@
 ## Problem description
 
 ## Dataset 
-kaggle[https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code]
+[kaggle](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code)
 
